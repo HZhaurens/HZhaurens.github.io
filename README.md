@@ -8,6 +8,6 @@
 
 [HZhaurens 的个人博客](URL_ADDRESShaurens.github.io/)
 ## 邮件地址
-[HZhaurens 的个人邮件](h.zhaurens.outlook.com)
+[HZhaurens 的个人邮件](h.zhaurens@outlook.com)
 
 
