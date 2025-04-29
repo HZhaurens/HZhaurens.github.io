@@ -1,77 +1,8 @@
-# HZhaurens 的个人博客
 
-这是 HZhaurens 的个人博客，基于 GitHub Pages 搭建，记录技术分享、生活随笔与学习笔记。
-
-## 特性
-
-- 简洁美观的界面
-- 支持 Markdown 语法
-- 响应式设计，适配多端
-- 便捷的内容管理与发布
-
-## 快速开始
-
-1. 克隆仓库到本地：
-
-   ```bash
-   git clone https://github.com/HZhaurens/HZhaurens.github.io.git
-   Trae
-
-参考了 2 个上下文
-
-README.md 1-1
-
-README.md
-
-为你的博客项目生成了一个简洁的 README.md 模板，内容涵盖了项目简介、特性、安装与使用方法、目录结构以及联系方式。你可以根据实际情况进一步完善细节。
-
-README.md
-
-应用
-
-Open Folder
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
 
 # HZhaurens 的个人博客
 
-这是 HZhaurens 的个人博客，基于
-
-GitHub Pages 搭建，记录技术分
-
-享、生活随笔与学习笔记。
+这是 HZhaurens 的个人博客，基于GitHub Pages 搭建，记录技术分享、生活随笔与学习笔记。
 
 ## 特性
 
